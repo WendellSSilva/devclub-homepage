@@ -27,7 +27,7 @@ https://devclub-awards.vercel.app/
 
 ## 📸 Preview
 
-Adicionar imagem do projeto aqui.
+![DevClub Homepage Preview](./public/devclub-homepage.png)
 
 ## 📂 Estrutura do projeto
 
