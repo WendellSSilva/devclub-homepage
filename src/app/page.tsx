@@ -11,6 +11,7 @@ import Journey from "@/components/Journey";
 import CTA from "@/components/CTA";
 import CursorGlow from "@/components/CursorGlow";
 import Footer from "@/components/Footer";
+import WhatsAppButton from "@/components/WhatsAppButton";
 
 export default function Home() {
   return (
@@ -28,6 +29,7 @@ export default function Home() {
       <CTA />
       <CursorGlow />
       <Footer />
+      <WhatsAppButton />
     </main>
   );
 }
